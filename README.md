@@ -1,2 +1,0 @@
-# Thesis
-Undergraduate Academic Thesis
